@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Id card</string>
+    <string name="clz_name"><b> Jana Bhawana Campus</b></string>
+    <string name="c_address"><b> Godawari Municipality-11, Lalitpur</b></string>
+    <string name="c_phone"><b> Ph:01-5265512</b></string>
+
+    <string name="sid"><b> <u>STUDENT IDENTITY CARD</u></b></string>
+    <string name="name"><b> Name :</b> Swechha Bista </string>
+    <string name="address"><b> Address :</b>Godawari-10 </string>
+    <string name="camp"><b> Campus Regd No. : </b>2535 </string>
+    <string name="level"><b> Level :</b> BCA 2076 <b> Faculty :</b>Humanities </string>
+    <string name="sem"><b> Semester : </b>Sixth Semester <b> Valid Upto : </b>2080/12/30 </string>
+</resources>
