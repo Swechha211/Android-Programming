@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="@color/purple_500"
+    tools:context=".MainActivity2">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Activity 2"
+        android:textSize="50dp"
+        android:fontFamily="sans-serif-black"
+        android:layout_gravity="center_horizontal"
+        android:textColor="@color/white"
+        android:layout_marginTop="8dp"
+
+        />
+
+    <TextView
+        android:id="@+id/t1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Your name is "
+        android:textColor="@color/white"
+        android:textSize="30dp"
+        android:layout_marginTop="20dp"
+
+        />
+
+    <TextView
+        android:id="@+id/t2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Your address is "
+        android:textColor="@color/white"
+        android:textSize="30dp"
+        android:layout_marginTop="20dp"
+
+        />
+
+</LinearLayout>
