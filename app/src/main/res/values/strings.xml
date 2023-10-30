@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MultipleActivity</string>
+    <string name="txt1"> Welcome to first activity page</string>
+    <string name="btn1"> Click me for next activity</string>
+    <string name="textactivity2">Welcome to our second activity page</string>
+    <string name="textactivity3">Now we are at second activity of our multiple activity creation project. We all want to welcome you all in this now happening.</string>
+</resources>
