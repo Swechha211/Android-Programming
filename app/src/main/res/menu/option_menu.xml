@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item android:id="@+id/top"
+        android:icon="@drawable/baseline_article_24"
+        android:title="top"
+        app:showAsAction="ifRoom"/>
+
+
+    <item android:id="@+id/setting"
+        android:title="Setting"
+        />
+
+    <item android:id="@+id/search"
+        android:title="Search">
+
+        <menu>
+            <item android:id="@+id/bca"
+                android:title="BCA"
+                />
+            <item android:id="@+id/bbs"
+                android:title="BBS"
+                />
+        </menu>
+
+
+    </item>
+    <item android:id="@+id/share"
+        android:title="Share"
+        />
+
+
+</menu>
